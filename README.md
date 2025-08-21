@@ -13,4 +13,4 @@ git clone https://github.com/WesternHysteria/TeleBot4Static.git
 chmod +x TeleBot4Static/*.sh TeleBot4Static/*.py
 TeleBot4Static/install.sh
 ```
-и ответить на заданные вопросы. Подробное описание и инструкция об установке находятся [тут](https://habr.com).
+и ответить на заданные вопросы. Подробное описание и инструкция об установке находятся [тут]([https://habr.com](https://habr.com/ru/articles/939310/)).
